@@ -19,30 +19,30 @@ Alamat : Jl. Panorama No.4, Bukit Cangang Kayu Ramang, Kec Guguk Panjang, Kota B
 ## Diagram - Diagram
 
 1. _Use Case Diagram_
-   ![*Use Case Diagram*](/diagram-diagram/use-case-diagram.png)
+   - ![*Use Case Diagram*](/diagram-diagram/use-case-diagram.png)
 2. Diagram Proses Bisnis
-   ![Diagram Proses Bisnis](/diagram-diagram/diagram-proses-bisnis.png)
+   - ![Diagram Proses Bisnis](/diagram-diagram/diagram-proses-bisnis.png)
 3. _Data Flow Diagram (DFD)_
    - _DFD Konteks_
-     ![*DFD Konteks*](/diagram-diagram/dfd-konteks.jpg)
+   - ![*DFD Konteks*](/diagram-diagram/dfd-konteks.jpg)
    - _DFD Level_ 1
-     ![*DFD Level 1*](/diagram-diagram/dfd-level-1.png)
+   - ![*DFD Level 1*](/diagram-diagram/dfd-level-1.png)
    - _DFD Level_ 2 Untuk Proses 1.0 (Data Barang)
-     ![*DFD Level 2 Proses Data Barang*](/diagram-diagram/dfd-level-2-proses-data-barang.jpg)
+   - ![*DFD Level 2 Proses Data Barang*](/diagram-diagram/dfd-level-2-proses-data-barang.jpg)
    - _DFD Level_ 2 Untuk Proses 2.0 (Data Barang Masuk)
-     ![*DFD Level 2 Proses Data Barang Masuk*](/diagram-diagram/dfd-level-2-proses-data-barang-masuk.png)
+   - ![*DFD Level 2 Proses Data Barang Masuk*](/diagram-diagram/dfd-level-2-proses-data-barang-masuk.png)
    - _DFD Level_ 2 Untuk Proses 3.0 (Data Barang Keluar)
-     ![*DFD Level 2 Proses Data Barang Keluar*](/diagram-diagram/dfd-level-2-proses-data-barang-keluar.png)
+   - ![*DFD Level 2 Proses Data Barang Keluar*](/diagram-diagram/dfd-level-2-proses-data-barang-keluar.png)
 4. _Flowchart_
    - _Flowchart_ Bagian 1
-     ![*Flowchart Bagian 1*](/diagram-diagram/flowchart-bagian-1.png)
+   - ![*Flowchart Bagian 1*](/diagram-diagram/flowchart-bagian-1.png)
    - _Flowchart_ Bagian 2
-     ![*Flowchart Bagian 2*](/diagram-diagram/flowchart-bagian-2.png)
+   - ![*Flowchart Bagian 2*](/diagram-diagram/flowchart-bagian-2.png)
    - _Flowchart_ Bagian 3
-     ![*Flowchart Bagian 3*](/diagram-diagram/flowchart-bagian-3.png)
+   - ![*Flowchart Bagian 3*](/diagram-diagram/flowchart-bagian-3.png)
    - _Flowchart_ Bagian 4
-     ![*Flowchart Bagian 4*](/diagram-diagram/flowchart-bagian-4.png)
+   - ![*Flowchart Bagian 4*](/diagram-diagram/flowchart-bagian-4.png)
    - _Flowchart_ Bagian 5
-     ![*Flowchart Bagian 5*](/diagram-diagram/flowchart-bagian-5.png)
+   - ![*Flowchart Bagian 5*](/diagram-diagram/flowchart-bagian-5.png)
 
 ---
