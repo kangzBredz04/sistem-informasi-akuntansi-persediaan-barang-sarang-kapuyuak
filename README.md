@@ -53,3 +53,5 @@ Alamat : Jl. Panorama No.4, Bukit Cangang Kayu Ramang, Kec Guguk Panjang, Kota B
 - ![*Halaman Login*](/gambar-desain-aplikasi/Halaman%20Login.png)
   - _Sheet Default_ Data _User_
   - ![*Sheet Default Data User*](/gambar-desain-aplikasi/Sheet%20Default%20Data%20User.png)
+- Halaman Beranda
+- ![*Halaman Login*](/gambar-desain-aplikasi/Halaman%20Beranda.png)
